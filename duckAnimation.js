@@ -1,7 +1,5 @@
 /*
 Amelia Fatykhova
-CS 3451 Spring 2022
-Project 2a
 
 Instancing: I am replicating the duck to create a flock
 
